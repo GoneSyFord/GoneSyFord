@@ -1,8 +1,7 @@
 
 
 
-
-<img src="https://i.imgur.com/KkzPFi1.gif" width="100%" style="max-width: 500px;" alt="Mellow Anime">
+![Mellow Anime](https://i.imgur.com/KkzPFi1.gif)
 
 <div align="center">
 
