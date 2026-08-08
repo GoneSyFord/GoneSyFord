@@ -1,10 +1,10 @@
 
 
 
-<div align="center">
 
 <img src="https://i.imgur.com/KkzPFi1.gif" width="100%" style="max-width: 500px;" alt="Mellow Anime">
 
+<div align="center">
 
 # Hi, I'm GoneSyFord(Furqon)
 > *Just a high schooler turning free time into code.*
