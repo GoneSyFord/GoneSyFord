@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://c.tenor.com/hIOHlSIjnG0AAAAC/anime.gif" width="100%" style="max-width: 500px;" alt="Mellow Anime">
+<img src="https://i.imgur.com/KkzPFi1.gif" width="100%" style="max-width: 500px;" alt="Mellow Anime">
 
 
 # Hi, I'm GoneSyFord(Furqon)
