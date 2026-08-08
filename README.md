@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/332.gif" width="400px" alt="Cold Aesthetic">
+<img src="https://media1.tenor.com/m/hIOHlSIjnG0AAAAC/anime.gif" width="100%" alt="Anime Mellow">
 
 # Hi, I'm GoneSyFord(Furqon)
 > *Just a high schooler turning free time into code.*
