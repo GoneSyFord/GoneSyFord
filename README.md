@@ -12,7 +12,7 @@
 </div>
 
 > **Halo dan salam kenal!** 
-> Saya cuma anak SMA Terbuka yang suka *coding* buat ngisi waktu luang dibanding cuma *doomscrolling*. Alasan sebenarnya simpel: **saya emang nggak punya temen**. Daripada kesepian nggak ada yang diajak ngobrol, mending saya ngobrol sama *compiler* Rust. Awalnya cuma seorang *vibe coder* yang pusing pas kena error indentasi, tapi pas konsisten belajar ternyata *coding* dan matematika itu seru banget—bahkan jadi temen terbaik saya sekarang.
+> Saya cuma anak SMA Terbuka yang suka *coding* buat ngisi waktu luang dibanding cuma *doomscrolling*. Alasan sebenarnya simpel: **saya emang nggak punya temen**. Daripada kesepian nggak ada yang diajak ngobrol, mending saya ngobrol sama *Computer*. Awalnya cuma seorang *vibe coder* yang pusing pas kena error indentasi, tapi pas konsisten belajar ternyata *coding* dan matematika itu seru banget—bahkan jadi temen terbaik saya sekarang.
 
 ### 🚀 My Coding Journey
 * **First Step**: Awalnya asal nyemplung ke **Python**, **Rust**, dan **Gleam**.
