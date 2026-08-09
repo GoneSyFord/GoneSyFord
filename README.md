@@ -1,9 +1,10 @@
 
 
 
-![Mellow Anime](https://media.tenor.com/EudvjJemPC0AAAAM/bocchi-the.gif)
 
 <div align="center">
+    
+![Alone](https://media.tenor.com/OLcsauUFIUAAAAAM/alone-sad.gif)
 
 # Hi, I'm GoneSyFord(Furqon)
 > *Just a high schooler turning free time into code.*
