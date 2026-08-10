@@ -14,7 +14,7 @@
 > **Halo dan salam kenal!** 
 > Saya cuma anak SMA Terbuka yang suka *coding* buat ngisi waktu luang dibanding cuma *doomscrolling*. Alasan sebenarnya simpel: **saya emang nggak punya temen**. Daripada kesepian nggak ada yang diajak ngobrol, mending saya ngobrol sama *Computer*. Awalnya cuma seorang *vibe coder* yang pusing pas kena error indentasi, tapi pas konsisten belajar ternyata *coding* dan matematika itu seru banget—bahkan jadi temen terbaik saya sekarang.
 
-### 🚀 My Coding Journey
+### 📖 My Coding Journey
 * **First Step**: Awalnya asal nyemplung ke **Python**, **Rust**, dan **Gleam**.
 * **Current Focus**: Lagi asyik ngedalemim **Discrete Mathematics**, **Rust**, dan **Gleam**.
 * **Goal**: Ngebangun proyek-proyek seru di bawah naungan **GSF CORP** 🤣
@@ -22,15 +22,15 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-`Flask` • `aiohttp` • `asyncio`
+`Flask` • `aiogram` • `aiohttp` • `asyncio`
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
-`Tokio` • `Axum` • `Ratatui` • `Leptos`
+`Tokio` • `Axum` • `Ratatui` • `Leptos` • 'Rayon'
 
 ![Gleam](https://img.shields.io/badge/Gleam-ffaff3?style=flat-square&logo=gleam&logoColor=black)
 `Exploring the ecosystem`
 
-# MyRoadmap
+# 🤓 MyRoadmap
 
 ```mermaid
 flowchart TD
@@ -70,5 +70,9 @@ flowchart TD
 
 ---
 
-📫 **Reach me at**: *Masih Rahasia 🤫*
+📫 **Reach me at**:
+<div align="center">
+    
+   ![Kepo](https://media.tenor.com/EudvjJemPC0AAAAM/bocchi-the.gif)
 
+</div>
