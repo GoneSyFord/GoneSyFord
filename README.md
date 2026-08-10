@@ -25,7 +25,7 @@
 `Flask` • `aiogram` • `aiohttp` • `asyncio`
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
-`Tokio` • `Axum` • `Ratatui` • `Leptos` • 'Rayon'
+`Tokio` • `Axum` • `Ratatui` • `Leptos` • `Rayon`
 
 ![Gleam](https://img.shields.io/badge/Gleam-ffaff3?style=flat-square&logo=gleam&logoColor=black)
 `Exploring the ecosystem`
